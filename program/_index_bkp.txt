@@ -1,0 +1,76 @@
+---
+title: Program (tentative)
+
+# Listing view
+view: compact
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
+---
+
+Tuesday, March 4, 2025 
+
+| Time  (EDT)         |           Session                                       | 
+|-----------------|-------------------------------------------------------------|
+| 9:00    | **Introduction and Welcome Speech**                         |  
+| 9:30    | **Keynote Speech:** *Co-enhancing of large and small models in heterogeneous federated learning*  <br /> [Yang Liu](https://fluidworkshop.github.io/author/yang-liu/), Tsinghua University, Beijing, China |
+| 10:30   | **Break**                                      |  
+| 11:00   | **Oral Session 1**   <br /> *Exploring Gradient Subspaces: Addressing and Overcoming LoRA’s Limitations in Federated Fine-Tuning of Large Language Models* [(PDF)](https://arxiv.org/abs/2410.23111) <br /> Navyansh Mahla, Kshitij Sharad Jadhav and Ganesh Ramakrishnan. <br /> *Non-Convex Optimization in Federated Learning via Variance Reduction and Adaptive Learning*  [(PDF)](https://doi.org/10.48550/arXiv.2412.11660) <br /> Dipanwita Thakur, Antonella Guzzo, Giancarlo Fortino and Sajal K. Das. <br />  |
+| 12:30   | **Lunch**                                                  |
+| 14:00   | **Oral Session 2**                                          |  
+| 15:30   | **Break**                                      |  
+| 16:00   | **Keynote Speech:** *From Theory to Practice: Addressing Challenges of Real-World Federated Learning* <br />  [Holger Roth](https://fluidworkshop.github.io/author/holger-roth/), NVIDIA, USA |
+| 17:00   | **Concluding Remarks and Closing Session**                  | 
+| 17:15   | **Poster Session**                                          | 
+
+
+# The 1st Workshop on Federated Learning for Unbounded and Intelligent Decentralization (FLUID)
+#### in conjunction with [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) in Philadelphia, Pennsylvania, USA, at the [Pennsylvania Convention Center](https://www.paconvention.com)
+---
+### **Tuesday, March 4, 2025**
+### **Room: TBD**
+---
+##### Please note that each candidate is allocated **20** mins: 15 + 3Q/A.
+##### It is important to remain consistent with this timing to ensure the workshop schedule runs smoothly and aligns with the break times defined by the conference.
+---
+## Schedule
+| **Time (EDT)**      | **Session**                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------------|
+| **9:00am – 9:30am** | **Introduction and Welcome Speech**                                                                 |
+| **9:30am – 10:30am** | **Keynote Speech:** *Co-enhancing of Large and Small Models in Heterogeneous Federated Learning* [Yang Liu](https://fluidworkshop.github.io/author/yang-liu/), Tsinghua University, Beijing, China |
+|
+| **10:30am – 11:00am**| **Break**
+|
+| **11:00am – 12:30pm**| **Oral Session 1. Session Chair: [Dr. Diletta Chiaro](https://www.linkedin.com/in/dilettachiaro/)**
+|
+| **11:00am – 11:20pm**| *Exploring Gradient Subspaces: Addressing and Overcoming LoRA’s Limitations in Federated Fine-Tuning of Large Language Models*|
+||**Authors:** Navyansh Mahla, Kshitij Sharad Jadhav and Ganesh Ramakrishnan. **ArXiv:** https://arxiv.org/abs/2410.23111.
+| **11:20am – 11:40pm**  | *Non-Convex Optimization in Federated Learning via Variance Reduction and Adaptive Learning*  |
+||**Authors:** Dipanwita Thakur, Antonella Guzzo, Giancarlo Fortino and Sajal K. Das. **ArXiv:** https://doi.org/10.48550/arXiv.2412.11660.
+| **11:40am – 12:00pm**| *SplitFedZip: Learned Compression for Data Transfer Reduction in Split-Federated Learning*        |
+||**Authors:** Chamani Shiranthika Jayakody Kankanamalage, Hadi Hadizadeh, Parvaneh Saeedi and Ivan Bajic. **ArXiv:** https://arxiv.org/abs/2412.17150.
+| **12:00am – 12:20pm**| *The Impact of Cut Layer Selection in Split Federated Learning*        |
+||**Authors:** Justin Dachille, Chao Huang and Xin Liu. **ArXiv:** https://arxiv.org/abs/2412.15536.
+| **12:20am – 12:40pm**| *FedGA: Federated Learning with Gradient Alignment for Error Asymmetry Mitigation*        |
+||A**Authors:** Chenguang Xiao, Zheming Zuo and Shuo Wang. **ArXiv:** https://arxiv.org/abs/2412.16582.
+| **12:40pm – 2:00pm** | **Lunch** (on your own; no sponsored lunch provided)                                                |
+|
+| **2:00pm – 3:30pm** | **Oral Session 2: Session Chair: [PhD Marzia Canzaniello](https://www.linkedin.com/in/marziacanzaniello?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC81qh0BkPP5XBJ-UolqWMgtwxsfZlJn45A&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B%2BwrwVXS%2BRYK%2BKLHJPRbEFQ%3D%3D)**
+|
+| **2:00pm – 2:20pm** | *FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities*
+||**Authors:** Byeonghun Kim and Byeongjoon Noh. **ArXiv:** https://arxiv.org/abs/2412.14768.
+| **2:20pm – 2:40pm** | *Federated Learning for Coronary Artery Plaque Detection in Atherosclerosis Using IVUS Imaging: A Multi-Hospital Collaboration* |
+||**Authors:** Chiu-Han Hsiao, Kai Chen, Tsung-Yu Peng and Wei-Chieh Huang. **ArXiv:** https://arxiv.org/abs/2412.15307.
+| **2:40pm – 3:00pm** | *Differentiated Aggregation to Improve Generalization in Federated Learning* |
+||**Authors:** Peyman Gholami and Hulya Seferoglu. **ArXiv:** https://arxiv.org/abs/2404.11754.
+| **3:00pm – 3:20pm** | *FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks* |
+||**Authors:** Siddharth Ambekar, Yuhang Yao, Ryan Li and Carlee Joe-Wong. **ArXiv:** http://arxiv.org/abs/2412.16144.
+|
+| **3:20pm – 4:00pm** | **Break**                                                                                           |
+|
+| **4:00pm – 5:00pm** | **Keynote Speech:** *From Theory to Practice: Addressing Challenges of Real-World Federated Learning*  [Holger Roth](https://fluidworkshop.github.io/author/holger-roth/), NVIDIA, USA |
+| **5:00pm – 5:15pm** | **Concluding Remarks and Closing Session**                                                          |
+                                                                               |
+---

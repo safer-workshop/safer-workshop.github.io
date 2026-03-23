@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holger Roth | AAAI FLUID Workshop</title>
+    <link>https://fluidworkshop.github.io/author/holger-roth/</link>
+      <atom:link href="https://fluidworkshop.github.io/author/holger-roth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Holger Roth</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluidworkshop.github.io/author/holger-roth/avatar_hu9c5ca2696f05586bbc382c541417d2a1_112590_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Holger Roth</title>
+      <link>https://fluidworkshop.github.io/author/holger-roth/</link>
+    </image>
+    
+  </channel>
+</rss>

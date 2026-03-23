@@ -1,0 +1,24 @@
+# Workshop Schedule
+
+**Best Paper Award:**  
+
+---
+
+### Date: Tuesday, March 4, 2025  
+
+---
+
+| Time            | Arrangement                                                 | Details                                                                                                   |
+|------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 9:15 AM–9:30 AM  | **Introduction and Welcome Speech**                         | 5–10 mins introduction + 5 mins for waiting attendees to join.                                           |
+| 9:30 AM–10:30 AM | **Keynote Speech 1:** *Co-enhancing of large and small models in heterogeneous federated learning* | **Invited Speaker:** Yang Liu, Tsinghua University (45 mins talk + 10/15 mins Q&A).                       |
+| 10:30 AM–11:00 AM | **Break** *(refreshments provided)*                        |                                                                                                           |
+| 11:00 AM–12:30 PM | **Oral Session 1**                                         | Content depends on submissions.                                                                          |
+| 12:30 PM–2:00 PM  | **Lunch** *(on your own; no sponsored lunch provided)*     |                                                                                                           |
+| 2:00 PM–3:30 PM   | **Oral Session 2**                                         | Content depends on submissions.                                                                          |
+| 3:30 PM–4:00 PM   | **Break** *(refreshments provided)*                        |                                                                                                           |
+| 4:00 PM–5:00 PM   | **Keynote Speech 2:** *Digital Humans: Science and Simulation in the Time of AI* | **Invited Speaker:** Holger Roth, NVIDIA (45 mins talk + 10/15 mins Q&A).                                 |
+| 5:00 PM–5:15 PM   | **Concluding Remarks and Closing Session**                 | Closing remarks and acknowledgments.                                                                     |
+| 5:15 PM–6:30 PM   | **Poster Session**                                         | Interactive poster session.                                                                              |
+
+---

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shadi Albarqouni | AAAI FLUID Workshop</title>
+    <link>https://fluidworkshop.github.io/author/shadi-albarqouni/</link>
+      <atom:link href="https://fluidworkshop.github.io/author/shadi-albarqouni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shadi Albarqouni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluidworkshop.github.io/author/shadi-albarqouni/avatar_huf6fe472177cdbbc11692e7b840700fd6_4388160_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shadi Albarqouni</title>
+      <link>https://fluidworkshop.github.io/author/shadi-albarqouni/</link>
+    </image>
+    
+  </channel>
+</rss>

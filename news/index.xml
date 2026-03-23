@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Important Dates | AAAI FLUID Workshop</title>
+    <link>https://fluidworkshop.github.io/news/</link>
+      <atom:link href="https://fluidworkshop.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Important Dates</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluidworkshop.github.io/media/icon_hue19ca8e7686dd0214e813a6b3a848dc0_384934_512x512_fill_lanczos_center_3.png</url>
+      <title>Important Dates</title>
+      <link>https://fluidworkshop.github.io/news/</link>
+    </image>
+    
+  </channel>
+</rss>

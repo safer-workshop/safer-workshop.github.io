@@ -1,0 +1,29 @@
+---
+title: Program
+
+# Listing view
+view: compact
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
+---
+
+**18 September 2022 3:40 PM to 7:10 PM (SGT time) -- 9:40 AM to 1:10 PM (CET time)**
+
+
+| <br /> Time (SGT)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;| &nbsp;&nbsp; &nbsp;| &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Session &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   &nbsp; &nbsp;&nbsp; &nbsp; |
+|:---------------------|--|--|:--------------------------|
+| 3:45 PM -- 4:00 PM  | |  | Opening                |
+| 4:00 PM -- 4:45 PM  | |  | Keynote I: **Image quality transfer and democratization of MRI** <br /> *[Prof. Daniel Alexander](https://fair-workshop.github.io/author/daniel-alexander/)*, University College London, United Kindgom |
+| 4:45 PM -- 5:15 PM  | | |  Oral Session I  |
+| | | | **Deep Learning-based Segmentation of Pleural Effusion From Ultrasound Using Coordinate Convolutions** <br /> *Germain Morilhat, Naomi Kifle, Sandra FinesilverSmith, Bram Ruijsink, Vittoria Vergani, Habtamu Tegegne Desita, Zerubabel Tegegne Desita, Esther Puyol-Anton, Aaron Carass and Andrew P. King*|
+| | | | **Verifiable and Energy Efficient Medical Image Analysis with Quantised Self-attentive Deep Neural Networks** <br />  *Rakshith Sathish, Swanand Khare and Debdoot Sheet*|
+| 5:15 PM -- 5:45 PM  | | |Break and Poster Session |
+| 5:45 PM -- 6:30 PM  | | |Keynote II:  **Close the loop for Medical Ophthalmology AI application** <br /> *[Dr. Zongyuan Ge](https://fair-workshop.github.io/author/zongyuan-ge/)*, Monash University, Australia   |
+| 6:30 PM -- 7:05 PM  | | |Oral Session II |
+| | | | **Enhancing Portable OCT Image Quality via GANs for AI-Based Eye Disease Detection** <br /> *Kaveri A. Thakoor, Ari Carter, Ge Song, Adam Wax, Omar Moussa, Royce W.S. Chen, Christine Hendon  and Paul Sajda*|
+| | | | **LRH-Net: A Multi-Level Knowledge Distillation Approach for Low-Resource Heart Network** <br /> *Ekansh Chauhan, Swathi Guptha, Likith Reddy and Bapi Raju* |
+| | | | **The African Neuroimaging Archive (AfNiA): An Approach for Democratizing AI in Medical Imaging** ([Link](https://drive.google.com/file/d/1A0h65OSJS0IO5d8D1Rl6iuSvzUs-ZjnP/view?usp=sharing)) <br /> *Udunna Anazodo, Confidence Raymond, Dong Zhang, Can Akgun,  Michael O Dada,  Iris Asllani, Maruf Adewole, Farouk Dako*
+| 7:05 PM -- 7:10 PM  | | |Closing                  |
