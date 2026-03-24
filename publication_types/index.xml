@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | AAAI FLUID Workshop</title>
-    <link>https://fluidworkshop.github.io/publication_types/</link>
-      <atom:link href="https://fluidworkshop.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publication_types | MICCAI SAFER Workshop</title>
+    <link>https://safer-workshop.github.io/publication_types/</link>
+      <atom:link href="https://safer-workshop.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fluidworkshop.github.io/media/icon_hue19ca8e7686dd0214e813a6b3a848dc0_384934_512x512_fill_lanczos_center_3.png</url>
+      <url>https://safer-workshop.github.io/media/icon_hue19ca8e7686dd0214e813a6b3a848dc0_384934_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://fluidworkshop.github.io/publication_types/</link>
+      <link>https://safer-workshop.github.io/publication_types/</link>
     </image>
     
   </channel>

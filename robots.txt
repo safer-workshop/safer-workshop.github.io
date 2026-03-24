@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://fluidworkshop.github.io/sitemap.xml
+Sitemap: https://safer-workshop.github.io/sitemap.xml

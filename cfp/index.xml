@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call for Papers | AAAI FLUID Workshop</title>
-    <link>https://fluidworkshop.github.io/cfp/</link>
-      <atom:link href="https://fluidworkshop.github.io/cfp/index.xml" rel="self" type="application/rss+xml" />
+    <title>Call for Papers | MICCAI SAFER Workshop</title>
+    <link>https://safer-workshop.github.io/cfp/</link>
+      <atom:link href="https://safer-workshop.github.io/cfp/index.xml" rel="self" type="application/rss+xml" />
     <description>Call for Papers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://fluidworkshop.github.io/media/icon_hue19ca8e7686dd0214e813a6b3a848dc0_384934_512x512_fill_lanczos_center_3.png</url>
+      <url>https://safer-workshop.github.io/media/icon_hue19ca8e7686dd0214e813a6b3a848dc0_384934_512x512_fill_lanczos_center_3.png</url>
       <title>Call for Papers</title>
-      <link>https://fluidworkshop.github.io/cfp/</link>
+      <link>https://safer-workshop.github.io/cfp/</link>
     </image>
     
   </channel>

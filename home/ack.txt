@@ -1,0 +1,17 @@
+---
+title: Acknowledgement
+
+# Listing view
+view: compact
+weight: 50
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
+---
+
+The organizing members from the University of Naples Federico II would like to thank the FAIR Foundation – Future Artificial Intelligence Research, a non-profit organization whose primary aim is to advance cutting-edge research in the field of artificial intelligence. FAIR is supporting the technical and logistical aspects of the workshop for the Federico II team, through initiatives funded under the National Recovery and Resilience Plan (PNRR).
+![FAIR](loghi_fluid.png)
+										  
+

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AAAI FLUID Workshop</title>
-    <link>https://fluidworkshop.github.io/</link>
-      <atom:link href="https://fluidworkshop.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>AAAI FLUID Workshop</description>
+    <title>MICCAI SAFER Workshop</title>
+    <link>https://safer-workshop.github.io/</link>
+      <atom:link href="https://safer-workshop.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>MICCAI SAFER Workshop</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fluidworkshop.github.io/media/icon_hue19ca8e7686dd0214e813a6b3a848dc0_384934_512x512_fill_lanczos_center_3.png</url>
-      <title>AAAI FLUID Workshop</title>
-      <link>https://fluidworkshop.github.io/</link>
+      <url>https://safer-workshop.github.io/media/icon_hue19ca8e7686dd0214e813a6b3a848dc0_384934_512x512_fill_lanczos_center_3.png</url>
+      <title>MICCAI SAFER Workshop</title>
+      <link>https://safer-workshop.github.io/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>https://fluidworkshop.github.io/event/example/</link>
+      <link>https://safer-workshop.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/event/example/</guid>
+      <guid>https://safer-workshop.github.io/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,25 +29,25 @@
     
     <item>
       <title>Speaker</title>
-      <link>https://fluidworkshop.github.io/old_speakers/speaker2/</link>
+      <link>https://safer-workshop.github.io/old_speakers/speaker2/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/old_speakers/speaker2/</guid>
+      <guid>https://safer-workshop.github.io/old_speakers/speaker2/</guid>
       <description>&lt;p&gt;Keynote 2:&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Keynote: TBC</title>
-      <link>https://fluidworkshop.github.io/old_speakers/speaker1/</link>
+      <link>https://safer-workshop.github.io/old_speakers/speaker1/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/old_speakers/speaker1/</guid>
+      <guid>https://safer-workshop.github.io/old_speakers/speaker1/</guid>
       <description>&lt;p&gt;Keynote 1: dsdsds&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://fluidworkshop.github.io/post/speaker2/</link>
+      <link>https://safer-workshop.github.io/post/speaker2/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/post/speaker2/</guid>
+      <guid>https://safer-workshop.github.io/post/speaker2/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://fluidworkshop.github.io/post/speaker1/</link>
+      <link>https://safer-workshop.github.io/post/speaker1/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/post/speaker1/</guid>
+      <guid>https://safer-workshop.github.io/post/speaker1/</guid>
       <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -67,18 +67,18 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://fluidworkshop.github.io/publication/preprint/</link>
+      <link>https://safer-workshop.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/publication/preprint/</guid>
+      <guid>https://safer-workshop.github.io/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://fluidworkshop.github.io/publication/journal-article/</link>
+      <link>https://safer-workshop.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/publication/journal-article/</guid>
+      <guid>https://safer-workshop.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -90,9 +90,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://fluidworkshop.github.io/publication/conference-paper/</link>
+      <link>https://safer-workshop.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/publication/conference-paper/</guid>
+      <guid>https://safer-workshop.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -104,49 +104,49 @@
     
     <item>
       <title></title>
-      <link>https://fluidworkshop.github.io/admin/config.yml</link>
+      <link>https://safer-workshop.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/admin/config.yml</guid>
+      <guid>https://safer-workshop.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fluidworkshop.github.io/contact/</link>
+      <link>https://safer-workshop.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/contact/</guid>
+      <guid>https://safer-workshop.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fluidworkshop.github.io/keynotes/</link>
+      <link>https://safer-workshop.github.io/keynotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/keynotes/</guid>
+      <guid>https://safer-workshop.github.io/keynotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://fluidworkshop.github.io/people/</link>
+      <link>https://safer-workshop.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/people/</guid>
+      <guid>https://safer-workshop.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAIR 2021</title>
-      <link>https://fluidworkshop.github.io/fair2021/</link>
+      <link>https://safer-workshop.github.io/fair2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/fair2021/</guid>
+      <guid>https://safer-workshop.github.io/fair2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://fluidworkshop.github.io/tour/</link>
+      <link>https://safer-workshop.github.io/tour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fluidworkshop.github.io/tour/</guid>
+      <guid>https://safer-workshop.github.io/tour/</guid>
       <description></description>
     </item>
     
