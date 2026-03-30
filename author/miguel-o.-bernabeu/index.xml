@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel O. Bernabeu | MICCAI SAFER Workshop</title>
+    <link>https://safer-workshop.github.io/author/miguel-o.-bernabeu/</link>
+      <atom:link href="https://safer-workshop.github.io/author/miguel-o.-bernabeu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel O. Bernabeu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://safer-workshop.github.io/author/miguel-o.-bernabeu/avatar_hua2972108725979d835e9989a65a3454b_42974_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Miguel O. Bernabeu</title>
+      <link>https://safer-workshop.github.io/author/miguel-o.-bernabeu/</link>
+    </image>
+    
+  </channel>
+</rss>
